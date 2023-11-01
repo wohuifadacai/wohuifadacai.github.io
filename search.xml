@@ -4,13 +4,50 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2023/10/21/hello-world/"/>
-      <url>/2023/10/21/hello-world/</url>
+      <title>day0</title>
+      <link href="/2023/11/01/day0/"/>
+      <url>/2023/11/01/day0/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="初尝试的一些小细节"><a href="#初尝试的一些小细节" class="headerlink" title="初尝试的一些小细节"></a>初尝试的一些小细节</h1><p><img src="/2023/11/01/day0/00.png" alt="00"></p><p>tags:和categories:之后一定要加空格，不然会报错</p><p><img src="/2023/11/01/day0/01.png" alt="01"></p><p>当然也可以写成这样</p><p><img src="/2023/11/01/day0/02.png" alt="02"></p><p>不过不知道为啥标签大小不一样，用tags: “blog”写出来的标签也比stm32的标签要小</p><p><img src="/2023/11/01/day0/03.png" alt="03"></p>]]></content>
       
       
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog0 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>first</title>
+      <link href="/2023/11/01/first/"/>
+      <url>/2023/11/01/first/</url>
+      
+        <content type="html"><![CDATA[<h1 id="今天是二零二三年十一月一日"><a href="#今天是二零二三年十一月一日" class="headerlink" title="今天是二零二三年十一月一日"></a>今天是二零二三年十一月一日</h1><p>我是一个聪明的小女孩</p><h2 id="今天是个大晴天"><a href="#今天是个大晴天" class="headerlink" title="今天是个大晴天"></a>今天是个大晴天</h2><p>到东校区的路上非常无敌热，不过骑小黄车的时候很畅快，抵消，又是平平无奇的一天。。。</p><p><img src="/2023/11/01/first/light.jpg"></p><h3 id="主线任务"><a href="#主线任务" class="headerlink" title="主线任务"></a>主线任务</h3><p>静态blog</p><p>阿里云服务器</p><p>动态blog</p><p>51洗衣机 仿真、keil、实物</p><p>智能导航查重 </p><h3 id="支线任务"><a href="#支线任务" class="headerlink" title="支线任务"></a>支线任务</h3><p>作业作业作业啊啊啊啊啊啊啊啊啊</p><p>形势与政策、软件工程、51和74ls138译码器的数码管显示</p><p>c语言</p><p>stm32</p><p>下周迪文科技：第一阶段培训是前端的界面设计，大家都能上手，是以个人为考核，第二阶段是联接下位机，是三个人一组进行考核，大家可以相互配合。</p><p>蓝桥杯</p><p>计算机能力挑战赛</p><p>买数一还是数二的书呢</p><p>背单词</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test0 </tag>
+            
+        </tags>
       
     </entry>
     
